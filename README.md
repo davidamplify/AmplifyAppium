@@ -76,4 +76,4 @@ Once configured, cucumber is fairly simple and it's mainly about modularising yo
 
 ## HELP
 
-For help with common problems  go to HELPMEIWANTTODIE.txt most general problems are quashed in example files, so compare where possible to them for relevant solutions.
+For help with common problems  go to ProblemsTipsTricks.txt most general problems are quashed in example files, so compare where possible to them for relevant solutions.
