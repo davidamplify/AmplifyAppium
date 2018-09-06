@@ -13,7 +13,7 @@ check install
 
 `brew doctor`
 
-install appium desktop
+install appium desktop (I use version 1.6.2, as when I tried a recent update it broke the test, but feel free to try updating, they include useful features like setting JAVA_HOME and ANDROID_HOME
 
 install Android Studio
 
@@ -44,7 +44,7 @@ Follow example code in MyFirstTest - First_Test.java
 
 ### Android
 
-make
+Set JAVA_HOME, ANDROID_HOME : http://www.sajeconsultants.com/how-to-set-java_home-on-mac-os-x/
 
 Create project in itelliJ - name whatever you want
 
@@ -53,6 +53,8 @@ go to src, new java class, name whatever you want the test to be
 File-Project Structure-Libraries, add selenium server and appium java client, apply
 
 Follow example code in AndroidAmplifyAppiumLoginHappyPath - src - HappyLoginPath.java
+
+Note: sometimes the app doesn't like java 10 so you might want to change to 8. Here's how: https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x
 
 ## Running The Test
 
