@@ -70,7 +70,7 @@ To start a project, the best place to start is here: https://medium.com/@mlvandi
 
 Add to your libraries the same code as you usually would for your appium stuff.
 
-After that I would take a look at my cucumber project to see how to get it going, as there aren't any good tutorials online (that I could find).
+After that I would take a look at my cucumber project (LoginNew) to see how to get it going, as there aren't any good tutorials online (that I could find).
 
 Once configured, cucumber is fairly simple and it's mainly about modularising your appium code.
 
