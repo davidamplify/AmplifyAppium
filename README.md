@@ -78,4 +78,4 @@ Once configured, cucumber is fairly simple and it's mainly about modularising yo
 
 ## HELP
 
-For help with common problems  go to [Common issues and Tips](Common issues and Tips.docx) most general problems are quashed in example files, so compare where possible to them for relevant solutions.
+For help with common problems  go to [Common issues and Tips](AmplifyAppium/Common issues and Tips.docx) most general problems are quashed in example files, so compare where possible to them for relevant solutions.
