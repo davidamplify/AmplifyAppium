@@ -76,6 +76,14 @@ After that I would take a look at my cucumber project (LoginNew) to see how to g
 
 Once configured, cucumber is fairly simple and it's mainly about modularising your appium code.
 
+### Running Cucumber Test from IntelliJ
+
+Right click on feature file, or feature file directory to run.
+
+### Running Cucumber Test from Terminal
+
+`mvn test` or `mvn clean test`. Go to Help if there are any issues.
+
 ## HELP
 
 For help with common problems  go to AmplifyAppium/Common issues and Tips.docx most general problems are quashed in example files, so compare where possible to them for relevant solutions.
