@@ -42,6 +42,8 @@ File-Project Structure-Libraries, add selenium server and appium java client, ap
 
 Follow example code in MyFirstTest - First_Test.java
 
+For a newer app progress go to MyFirstTest Copy
+
 ### Android
 
 Set JAVA_HOME, ANDROID_HOME : http://www.sajeconsultants.com/how-to-set-java_home-on-mac-os-x/
