@@ -19,9 +19,9 @@ install Android Studio
 
 install intelliJ IDEA
 
-download "selenium-server-standalone 3.13.x.jar" or later
+download "selenium-server-standalone 3.13.x.jar" or later https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server
 
-download Appium "java-client-6.1.x.jar" or later
+download Appium "java-client-6.1.x.jar" or later https://mvnrepository.com/artifact/io.appium/java-client
 
 download chromedriver.exe (used for Web context, in event it does not work, warning given should indicate what version to download)
 
