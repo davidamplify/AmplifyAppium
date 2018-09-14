@@ -91,3 +91,5 @@ Right click on feature file, or feature file directory to run.
 For help with common problems  go to AmplifyAppium/Common issues and Tips.docx most general problems are quashed in example files, so compare where possible to them for relevant solutions.
 
 Also not on github, but on the Devops machine (password bing btw) at Docs/Appium Tests/How To are some videos on how to set it all up.
+
+Also, a bunch of these files are updated on the devops machine, including the help document. tests and stuff in docs/Appium Tests/IntelliJ Tests and the help document at just docs. hope this all helps. over and out
